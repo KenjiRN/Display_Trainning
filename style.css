@@ -1,0 +1,36 @@
+   *{
+margin: 0;
+padding: 0%;
+border: 0;
+   }
+ul,ol,li{
+    list-style: none;
+}
+
+.example{
+    color: blue;
+    font-size: 25px;
+    text-align: center;
+} 
+.example-item{
+    width: 33.333%;
+    height: 150px;
+    display: block;
+    
+
+}
+.fir{
+    background-color: blueviolet;
+    margin: auto;
+}
+
+.sec{
+    background-color: yellowgreen;
+    margin-left: auto;
+   
+}
+
+.thi{
+    background-color: yellow;
+    
+}
